@@ -3,8 +3,9 @@
 	"auto_match_enabled": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"detect_indentation": true,
-	"font_size": 14.0,
-	"enable_hexadecimal_encoding": false,
+	"font_size": 11,
+	"bold_folder_labels": true,
+	"file_exclude_patterns": ["*.swn", "*.swo", "*.swp", "*.*~", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
 	"ignored_packages":
 	[
 		"Vintage"
