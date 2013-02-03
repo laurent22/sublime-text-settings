@@ -1,0 +1,5 @@
+{
+	"cmd": ["go.exe", "run", "$file"],
+	"selector": "source.go",
+	"working_dir": "${file_path}"
+}
