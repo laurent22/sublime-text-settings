@@ -1,0 +1,10 @@
+[
+	{
+		"args": {"to": "word"},
+		"command": "expand_selection"
+	},
+	{
+		"args": null,
+		"command": "copy"
+	}
+]

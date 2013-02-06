@@ -1,0 +1,18 @@
+[
+	{
+		"args": {"to": "word"},
+		"command": "expand_selection"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "paste"
+	},
+	{
+		"args": {"to": "word"},
+		"command": "expand_selection"
+	}
+]
