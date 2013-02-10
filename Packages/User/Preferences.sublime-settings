@@ -5,6 +5,10 @@
 	"color_scheme": "Packages/User/Themes/MonTheme.tmtheme",
 	"detect_indentation": true,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"fold_buttons": false,
+	"caret_style": "blink",
+	"find_selected_text": false,
 	"file_exclude_patterns":
 	[
 		"*.swn",
