@@ -2,13 +2,10 @@
 	"auto_complete": false,
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
+	"caret_style": "blink",
 	"color_scheme": "Packages/User/Themes/MonTheme.tmtheme",
 	"detect_indentation": true,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"fold_buttons": false,
-	"caret_style": "blink",
-	"find_selected_text": false,
+	"enable_hexadecimal_encoding": false,
 	"file_exclude_patterns":
 	[
 		"*.swn",
@@ -35,7 +32,11 @@
 		"*.psd",
 		"*.db"
 	],
+	"find_selected_text": false,
+	"fold_buttons": false,
 	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"

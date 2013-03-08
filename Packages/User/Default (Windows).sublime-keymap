@@ -6,5 +6,7 @@
 	{ "keys": ["f5"], "command": "build" },
 	{ "keys": ["ctrl+shift+c"], "command": "run_macro_file", "args": {"file": "Packages/User/copyword.sublime-macro"} },
 	{ "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/cutword.sublime-macro"} },
-	{ "keys": ["ctrl+shift+v"], "command": "run_macro_file", "args": {"file": "Packages/User/deletewordandpaste.sublime-macro"} }
+	{ "keys": ["ctrl+shift+v"], "command": "run_macro_file", "args": {"file": "Packages/User/deletewordandpaste.sublime-macro"} },
+	{ "keys": ["ctrl+shift+b"], "command": "tidy_xml" },
+	{ "keys": ["ctrl+shift+j"], "command": "tidy_json" }
 ]
