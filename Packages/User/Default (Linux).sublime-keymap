@@ -4,6 +4,7 @@
 	{ "keys": ["ctrl+space"], "command": "auto_complete" },
 	{ "keys": ["ctrl+;"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["f5"], "command": "build" },
+	{ "keys": ["f1"], "command": "goto_documentation" },
 	{ "keys": ["ctrl+shift+c"], "command": "run_macro_file", "args": {"file": "Packages/User/copyword.sublime-macro"} },
 	{ "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/cutword.sublime-macro"} },
 	{ "keys": ["ctrl+shift+v"], "command": "run_macro_file", "args": {"file": "Packages/User/deletewordandpaste.sublime-macro"} }

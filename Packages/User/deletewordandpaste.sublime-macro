@@ -10,9 +10,5 @@
 	{
 		"args": null,
 		"command": "paste"
-	},
-	{
-		"args": {"to": "word"},
-		"command": "expand_selection"
 	}
 ]
