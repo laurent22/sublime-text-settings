@@ -30,7 +30,8 @@
 		".DS_Store",
 		"*.class",
 		"*.psd",
-		"*.db"
+		"*.db",
+		"*.pdf"
 	],
 	"find_selected_text": false,
 	"fold_buttons": false,
