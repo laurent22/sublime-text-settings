@@ -4,3 +4,5 @@ Pristine Packages/
 Package Control.last-run
 Packages/User/User.zip
 *.pyc
+*.sublime_session
+remote-edit.py
