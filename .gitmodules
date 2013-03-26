@@ -1,6 +1,4 @@
 [submodule "Packages/mustache"]
 	path = Packages/mustache
 	url = https://github.com/Hugoch/sublimeText2-mustache
-[submodule "Packages/Git"]
-	path = Packages/Git
-	url = https://github.com/kemayo/sublime-text-2-git.git
+	
