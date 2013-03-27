@@ -87,7 +87,7 @@
     "draw_centered": false,
 
     // Controls auto pairing of quotes, brackets etc
-    "auto_match_enabled": false,
+    "auto_match_enabled": true,
 
     // Word list to use for spell checking
     "dictionary": "Packages/Language - English/en_US.dic",
@@ -197,7 +197,7 @@
     "tab_completion": true,
 
     // Enable auto complete to be triggered automatically when typing.
-    "auto_complete": false,
+    "auto_complete": true,
 
     // The maximum file size where auto complete will be automatically triggered.
     "auto_complete_size_limit": 4194304,

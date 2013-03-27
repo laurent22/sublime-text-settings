@@ -4,6 +4,6 @@
 	"working_dir": "${file_path}",
 	"linux":
 	{
-		"cmd": ["run.sh"]
+		"cmd": ["./run.sh"]
 	}
 }
