@@ -2,3 +2,9 @@
 	path = Packages/mustache
 	url = https://github.com/Hugoch/sublimeText2-mustache
 	
+[submodule "Packages/TOML"]
+	path = Packages/TOML
+	url = https://github.com/lmno/TOML.git
+[submodule "Packages/Ini"]
+	path = Packages/Ini
+	url = https://github.com/clintberry/sublime-text-2-ini.git
