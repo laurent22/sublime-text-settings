@@ -57,5 +57,6 @@
 	[
 		"Vintage"
 	],
+	"shift_tab_unindent": true,
 	"trim_automatic_white_space": false
 }
