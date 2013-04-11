@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"har"
+		"har",
+		"ehd"
 	]
 }
