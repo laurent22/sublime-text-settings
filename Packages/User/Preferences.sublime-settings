@@ -57,6 +57,18 @@
 	[
 		"Vintage"
 	],
+	"ignored_words":
+	[
+		"config",
+		"config/config",
+		"dbmigration",
+		"eg",
+		"php",
+		"sql",
+		"toml",
+		"versioned",
+		"xxx"
+	],
 	"shift_tab_unindent": true,
 	"trim_automatic_white_space": false
 }

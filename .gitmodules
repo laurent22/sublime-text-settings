@@ -14,3 +14,6 @@
 [submodule "Packages/AllAutocomplete"]
 	path = Packages/AllAutocomplete
 	url = https://github.com/alienhard/SublimeAllAutocomplete.git
+[submodule "Packages/CMake"]
+	path = Packages/CMake
+	url = https://github.com/zyxar/Sublime-CMakeLists.git
