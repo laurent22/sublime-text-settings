@@ -19,3 +19,6 @@
 [submodule "Packages/PrettyJson"]
 	path = Packages/PrettyJson
 	url = https://github.com/dzhibas/SublimePrettyJson.git
+[submodule "Packages/NSIS"]
+	path = Packages/NSIS
+	url = https://github.com/SublimeText/NSIS.git
