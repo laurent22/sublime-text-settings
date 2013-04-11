@@ -1,7 +1,6 @@
 [submodule "Packages/mustache"]
 	path = Packages/mustache
 	url = https://github.com/Hugoch/sublimeText2-mustache
-	
 [submodule "Packages/TOML"]
 	path = Packages/TOML
 	url = https://github.com/lmno/TOML.git
