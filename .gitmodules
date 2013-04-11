@@ -17,3 +17,6 @@
 [submodule "Packages/CMake"]
 	path = Packages/CMake
 	url = https://github.com/zyxar/Sublime-CMakeLists.git
+[submodule "Packages/PrettyJson"]
+	path = Packages/PrettyJson
+	url = https://github.com/dzhibas/SublimePrettyJson.git
