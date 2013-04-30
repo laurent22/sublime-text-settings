@@ -1,7 +1,6 @@
 [submodule "Packages/mustache"]
 	path = Packages/mustache
 	url = https://github.com/Hugoch/sublimeText2-mustache
-	
 [submodule "Packages/TOML"]
 	path = Packages/TOML
 	url = https://github.com/lmno/TOML.git
@@ -11,9 +10,6 @@
 [submodule "Packages/ApacheConf"]
 	path = Packages/ApacheConf
 	url = https://github.com/colinta/ApacheConf.tmLanguage.git
-[submodule "Packages/AllAutocomplete"]
-	path = Packages/AllAutocomplete
-	url = https://github.com/alienhard/SublimeAllAutocomplete.git
 [submodule "Packages/CMake"]
 	path = Packages/CMake
 	url = https://github.com/zyxar/Sublime-CMakeLists.git
