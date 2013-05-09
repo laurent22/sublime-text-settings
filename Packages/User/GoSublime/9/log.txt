@@ -1,0 +1,1000 @@
+
+** 2013-05-06 09:37:00.172363 **:
+MarGo: Cannot load env vars: Decode Error: No JSON object could be decoded
+env output: /bin/sh: 1: gosublime.margo.r13.05.04-1.linux-x64.exe: not found
+--------------------------------
+
+** 2013-05-06 09:37:00.173914 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-06 09:37:23.385440 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-06 14:24:11.995498 **:
+MarGo: Cannot load env vars: Decode Error: No JSON object could be decoded
+env output: /bin/sh: 1: gosublime.margo.r13.05.04-1.linux-x64.exe: not found
+--------------------------------
+
+** 2013-05-06 14:24:11.996624 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-07 17:07:30.377444 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:07.949339 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:09.451527 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:10.954681 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:11.339614 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:12.153420 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:27.184894 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:28.687147 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:31.199251 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:33.704063 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:36.708075 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:45.220727 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:48.235638 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:49.924352 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:50.239939 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:56.249430 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:58.752648 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:08:59.851407 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:09:03.420499 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:36:35.003530 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:36:43.012452 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:36:44.849147 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 17:36:45.687194 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-07 18:20:26.181466 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:14.882657 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:18.892520 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:20.893265 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:22.394322 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:25.897113 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:27.398902 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:33.405575 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:34.906037 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:40.415156 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:03:53.923736 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:02.436474 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:04.937518 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:07.939653 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:09.942733 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:11.443741 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:16.412705 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:23.270996 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:24.272142 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:25.279069 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:25.700512 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:04:26.437478 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:05:30.085087 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:05:30.691934 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:05:32.192380 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:05:33.194555 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:05:33.940757 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:05:34.216420 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:22.805021 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:24.306844 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:27.308414 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:30.580699 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:41.549961 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:44.171559 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:06:44.577806 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:10.116065 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:18.124386 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:19.125924 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:21.179278 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:22.634525 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:32.524068 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:07:33.304874 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:16.038174 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:16.803029 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:17.331581 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:29.847653 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:30.848564 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:32.349853 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:33.352319 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:35.356013 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:37.858526 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:39.364767 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:41.377082 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:45.386748 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:46.888504 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:52.895758 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:53.674989 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:54.412139 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:10:55.354809 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:18.565110 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:21.076233 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:22.076475 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:22.266723 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:31.234072 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:35.578574 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:36.240936 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:41.749035 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:44.256038 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:46.257464 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:48.268482 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:11:55.781693 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:12:00.288260 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:12:03.210369 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:12:03.851195 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:12:55.928823 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:00.945304 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:02.447575 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:03.448536 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:05.950819 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:06.952965 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:09.456331 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:11.522034 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:11.958976 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:16.241869 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:16.743876 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:19.747954 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:21.751268 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:25.763084 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:38.281745 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:39.137549 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:39.878903 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:40.425904 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:48.353858 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:49.342281 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:13:59.358893 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:00.861416 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:01.863221 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:05.365495 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:06.366756 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:07.869034 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:10.337520 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:10.625548 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:11.025649 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:20.842245 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:21.481642 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:33.362644 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-08 12:14:33.601577 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 10:38:11.315050 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 11:51:01.422938 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:29.761082 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:31.763677 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:36.268068 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:40.273450 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:42.862671 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:43.278044 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:44.286204 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:45.358616 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:37:45.787162 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:16.322451 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:17.825557 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:21.829791 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:27.838061 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:31.343739 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:35.846999 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:36.847275 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:39.350085 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:40.350289 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:44.354100 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:50.362708 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:51.718093 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:58.868154 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:38:59.868396 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:01.869345 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:03.782157 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:04.372265 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:07.422068 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:07.978690 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:37.009653 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:39.511598 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:40.397890 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:41.015470 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:45.741996 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:46.019738 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:39:54.030842 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:04.036485 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:07.041860 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:20.556121 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:24.058084 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:25.059458 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:26.561856 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:30.066367 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:33.066327 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:34.566795 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:36.069488 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:37.570830 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:39.072038 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:40.572828 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:44.077324 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:48.581222 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:40:56.088134 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:23.785463 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:31.940343 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:36.294589 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:38.797672 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:40.801034 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:41.420245 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:41.800905 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:43:43.803653 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:44:05.318394 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:44:09.822958 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:44:10.332087 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
+
+** 2013-05-09 15:44:46.467905 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------

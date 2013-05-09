@@ -16,3 +16,6 @@
 [submodule "Packages/PrettyJson"]
 	path = Packages/PrettyJson
 	url = https://github.com/dzhibas/SublimePrettyJson.git
+[submodule "Packages/Go"]
+	path = Packages/Go
+	url = https://github.com/DisposaBoy/GoSublime.git
