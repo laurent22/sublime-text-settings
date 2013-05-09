@@ -998,3 +998,18 @@ Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/Us
 MarGo: Cannot start MarGo:
 Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
 --------------------------------
+
+** 2013-05-09 15:46:48.056801 **:
+MarGo: Cannot load env vars: Decode Error: No JSON object could be decoded
+env output: /bin/sh: 1: gosublime.margo.r13.05.04-1.linux-x64.exe: not found
+--------------------------------
+
+** 2013-05-09 15:46:48.058179 **:
+MarGo: Missing required environment variables: GOROOT GOPATH
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+
+** 2013-05-09 15:47:02.455026 **:
+MarGo: Cannot start MarGo:
+Can't find the MarGo binary at `/home/laurent/.config/sublime-text-2/Packages/User/GoSublime/9/bin/gosublime.margo.r13.05.04-1.linux-x64.exe`
+--------------------------------
