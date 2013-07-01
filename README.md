@@ -12,3 +12,4 @@ Installing on Ubuntu:
 	mv customsettings/.* .
 	git submodule init
 	git submodule update
+	rm -rf customsettings
