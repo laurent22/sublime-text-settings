@@ -19,6 +19,7 @@
 		"*.exe",
 		"*.idb",
 		"*.gif",
+		"*.gz",
 		"*.ico",
 		"*.jpg",
 		"*.lib",
@@ -82,5 +83,6 @@
 	"shift_tab_unindent": true,
 	"tab_completion": false,
 	"trim_automatic_white_space": false,
-	"open_files_in_new_window": false
+	"open_files_in_new_window": false,
+	"copy_with_empty_selection": false
 }
