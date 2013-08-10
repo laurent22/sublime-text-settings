@@ -3,7 +3,7 @@
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/User/Themes/MonTheme.tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"file_exclude_patterns":
@@ -60,7 +60,7 @@
 		".svn",
 		"CVS"
 	],
-	"font_size": 10,
+	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -81,5 +81,6 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_completion": false,
-	"trim_automatic_white_space": false
+	"trim_automatic_white_space": false,
+	"open_files_in_new_window": false
 }
