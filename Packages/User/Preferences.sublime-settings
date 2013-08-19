@@ -47,6 +47,7 @@
 		"*.ttf",
 		"*.zip",
 		".#*",
+		"._*",
 		".DS_Store",
 		".project",
 		".tags",

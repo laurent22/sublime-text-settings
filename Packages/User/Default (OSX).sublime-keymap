@@ -14,6 +14,14 @@
 	{ "keys": ["f3"], "command": "find_next" },
 	{ "keys": ["shift+f3"], "command": "find_prev" },
 	{ "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace"} },
+	{ "keys": ["super+left"], "command": "move", "args": {"by": "subwords", "forward": false} },
+	{ "keys": ["super+right"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+	{ "keys": ["super+shift+left"], "command": "move", "args": {"by": "subwords", "forward": false, "extend": true} },
+	{ "keys": ["super+shift+right"], "command": "move", "args": {"by": "subword_ends", "forward": true, "extend": true} },
+	{ "keys": ["super+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["super+shift+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["super+alt+p"], "command": "prompt_select_project" },
 	{ "keys": ["alt+r"], "command": "toggle_regex", "context":
 		[
 			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
