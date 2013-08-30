@@ -1,2 +1,30 @@
 [
+	{ "keys": ["super+alt+shift+c"], "command": "select_word" },
+	{ "keys": ["f12"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["super+space"], "command": "auto_complete" },
+	{ "keys": ["super+;"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["f5"], "command": "build" },
+	{ "keys": ["super+shift+c"], "command": "run_macro_file", "args": {"file": "Packages/User/copyword.sublime-macro"} },
+	{ "keys": ["super+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/cutword.sublime-macro"} },
+	{ "keys": ["super+shift+v"], "command": "run_macro_file", "args": {"file": "Packages/User/deletewordandpaste.sublime-macro"} },
+	{ "keys": ["super+shift+w"], "command": "close_others" },
+	{ "keys": ["super+shift+b"], "command": "tidy_xml" },
+	{ "keys": ["super+shift+j"], "command": "tidy_json" },
+	{ "keys": ["f3"], "command": "replace_next" },
+	{ "keys": ["f3"], "command": "find_next" },
+	{ "keys": ["shift+f3"], "command": "find_prev" },
+	{ "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace"} },
+	{ "keys": ["super+left"], "command": "move", "args": {"by": "subwords", "forward": false} },
+	{ "keys": ["super+right"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+	{ "keys": ["super+shift+left"], "command": "move", "args": {"by": "subwords", "forward": false, "extend": true} },
+	{ "keys": ["super+shift+right"], "command": "move", "args": {"by": "subword_ends", "forward": true, "extend": true} },
+	{ "keys": ["super+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["super+shift+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["super+alt+p"], "command": "prompt_select_project" },
+	{ "keys": ["alt+r"], "command": "toggle_regex", "context":
+		[
+			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
+		]
+	}
 ]

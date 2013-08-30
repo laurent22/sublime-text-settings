@@ -48,6 +48,7 @@
 		"*.ttf",
 		"*.zip",
 		".#*",
+		"._*",
 		".DS_Store",
 		".project",
 		".tags",
@@ -63,7 +64,7 @@
 		".svn",
 		"CVS"
 	],
-	"font_size": 11,
+	"font_size": 12.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -82,7 +83,9 @@
 		"versioned",
 		"xxx"
 	],
+	"open_files_in_new_window": false,
 	"shift_tab_unindent": true,
+	"show_full_path": true,
 	"tab_completion": false,
 	"trim_automatic_white_space": false
 }
