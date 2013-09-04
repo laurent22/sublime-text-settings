@@ -22,3 +22,6 @@
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
 	url = https://github.com/laurent22/soda-theme
+[submodule "Packages/Flex"]
+	path = Packages/Flex
+	url = https://github.com/itsgg/Flex-Sublimetext
