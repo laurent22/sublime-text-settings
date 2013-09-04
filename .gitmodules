@@ -19,3 +19,6 @@
 [submodule "Packages/NSIS"]
 	path = Packages/NSIS
 	url = https://github.com/SublimeText/NSIS.git
+[submodule "Packages/Theme - Soda"]
+	path = Packages/Theme - Soda
+	url = https://github.com/laurent22/soda-theme
