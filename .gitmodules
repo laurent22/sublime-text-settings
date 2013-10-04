@@ -25,3 +25,6 @@
 [submodule "Packages/Flex"]
 	path = Packages/Flex
 	url = https://github.com/itsgg/Flex-Sublimetext
+[submodule "Packages/knockdown"]
+	path = Packages/knockdown
+	url = https://github.com/laurent22/knockdown
