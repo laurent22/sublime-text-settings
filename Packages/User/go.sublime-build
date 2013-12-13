@@ -8,6 +8,6 @@
 	},
 	"osx":
 	{
-		"cmd": ["/usr/local/go/bin/go", "run", "$file"]
+		"cmd": ["/usr/local/bin/go", "run", "$file"]
 	}
 }
