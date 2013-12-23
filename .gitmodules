@@ -28,3 +28,9 @@
 [submodule "Packages/knockdown"]
 	path = Packages/knockdown
 	url = https://github.com/laurent22/knockdown
+[submodule "Packages/sublime-markdown-extended"]
+	path = Packages/sublime-markdown-extended
+	url = https://github.com/laurent22/sublime-markdown-extended
+[submodule "Packages/sublime-monokai-extended"]
+	path = Packages/sublime-monokai-extended
+	url = https://github.com/jonschlinkert/sublime-monokai-extended.git
