@@ -3,7 +3,7 @@
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/User/Themes/MonokaiTweak2.tmTheme",
+	"color_scheme": "Packages/sublime-monokai-extended/Monokai Extended Bright.tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
