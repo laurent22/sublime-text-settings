@@ -26,5 +26,6 @@
 		[
 			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
 		]
-	}
+	},
+	{ "keys": ["super+<"], "command": "navigate_to_definition" }
 ]

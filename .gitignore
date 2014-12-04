@@ -7,3 +7,4 @@ Packages/User/User.zip
 *.sublime_session
 remote-edit.py
 Installed Packages/
+.DS_Store
